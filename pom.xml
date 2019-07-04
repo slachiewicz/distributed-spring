@@ -29,7 +29,7 @@
         <usertype-core.version>3.2.0.GA</usertype-core.version>
         <zrware.common.version>2.0.0-SNAPSHOT</zrware.common.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.cloud.version>1.0.0.RELEASE</spring.cloud.version>
+        <spring.cloud.version>1.1.0.RELEASE</spring.cloud.version>
         <start-class>com.zrware.DefaultMain</start-class>
     </properties>
 
